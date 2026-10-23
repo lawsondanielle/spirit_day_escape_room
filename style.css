@@ -1,20 +1,20 @@
 @font-face {
     font-family: 'United Sans';
-    src: url('./UnitedSans_purdue_2023/UnitedSans_purdue_2023/UnitedSansRgMd.otf') format('opentype');
+    src: url('./UnitedSans_purdue_2023/UnitedSansRgMd.otf') format('opentype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'United Sans';
-    src: url('./UnitedSans_purdue_2023/UnitedSans_purdue_2023/UnitedSansRgBd.otf') format('opentype');
+    src: url('./UnitedSans_purdue_2023/UnitedSansRgBd.otf') format('opentype');
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'United Sans';
-    src: url('./UnitedSans_purdue_2023/UnitedSans_purdue_2023/UnitedSansRgBk.otf') format('opentype');
+    src: url('./UnitedSans_purdue_2023/UnitedSansRgBk.otf') format('opentype');
     font-weight: 800;
     font-style: normal;
 }
